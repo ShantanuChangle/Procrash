@@ -1,4 +1,4 @@
-## Setup
+## project Setup
 
 1) Go to server directory.
 2) ``` npm run dev ```
